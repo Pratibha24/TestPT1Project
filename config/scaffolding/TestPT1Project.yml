@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: TestPT1Project
+  gitServerName: PT
+  gitUrl: https://github.com/Pratibha24/TestPT1Project
+  gitUsername: Pratibha24
+  gitBranch: main
